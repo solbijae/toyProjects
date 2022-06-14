@@ -66,7 +66,7 @@ assignees: solbijae, daeho220
     * Sort by date
       * listing 
 
-    * add transactions
+    * add transactions(Event)
       * click event(open add transactions(detail))
 
 * add transactions(detail) *POST*
