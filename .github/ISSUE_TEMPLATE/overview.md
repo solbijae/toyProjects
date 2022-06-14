@@ -78,7 +78,7 @@ assignees: solbijae, daeho220
     * add/close
 
 ---
-#Pages
+# Pages
 * total view page
 * insert page
 * modify page
