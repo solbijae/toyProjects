@@ -76,3 +76,9 @@ assignees: solbijae, daeho220
     * amount
     * spending category
     * add/close
+
+---
+#Pages
+* total view page
+* insert page
+* modify page
