@@ -41,4 +41,38 @@ assignees: solbijae, daeho220
 * 입출금 아이콘 정하기
 * 날짜별로 그룹화해서 보여주는 기능
 * 수입, 지출, 전체를 볼 수 있게 고르는것 (게시판의 카테고리를 쓰면 될려나?)
+---
+### Combined(Final)
+* landing *GET*
+    * welcome text
+    * total amount
+      * SUM(income + spending)
+    * total income
+      * SUM(income)
+    * total spending
+      * SUM(spending) * -1
 
+* total amount(detail) *GET*
+    * total list
+      * listing
+    * Sort by inocme
+      * listing
+      * donut graph
+         * percentage()
+    * Sort by spending
+      * listing
+      * donut graph
+         * percentage()
+    * Sort by date
+      * listing 
+
+    * add transactions
+      * click event(open add transactions(detail))
+
+* add transactions(detail) *POST*
+    * date
+      * Datepicker
+    * details(income/spending, content)
+    * amount
+    * spending category
+    * add/close
