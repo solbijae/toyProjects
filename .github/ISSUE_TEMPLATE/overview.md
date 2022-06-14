@@ -1,14 +1,13 @@
 ---
 name: Overview
 about: Overview necessary features & functions
-title: ''
-labels: ''
+title: Expense Tracker Overview
 assignees: solbijae, daeho220
 
 ---
 
 # Features
-###JaeYeon
+### JaeYeon
 * landing *GET*
     * welcome text
     * total amount
@@ -32,4 +31,4 @@ assignees: solbijae, daeho220
     * amount
     * add/close
 
-###Daeho
+### Daeho
