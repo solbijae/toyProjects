@@ -19,7 +19,7 @@ assignees: solbijae, daeho220
 
 * total amount(detail) *GET*
     * total list
-    * inocme listing
+    * income listing
     * spending listing
 
     * add transactions
@@ -55,7 +55,7 @@ assignees: solbijae, daeho220
 * total amount(detail) *GET*
     * total list
       * listing
-    * Sort by inocme
+    * Sort by income
       * listing
       * donut graph
          * percentage()
